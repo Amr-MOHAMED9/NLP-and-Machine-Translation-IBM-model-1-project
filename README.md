@@ -1,0 +1,3 @@
+# NLP and Machine Translation systems with IBM model-1 implementation
+
+In this project, [European Parliament proceedings](https://www.statmt.org/europarl/) corpus of parallel text was used to apply the different Natural Language Processing Techniques (NLP) such as Bigram model. In addition, [IBM model](https://en.wikipedia.org/wiki/IBM_alignment_models)-1 for Statistical Machine Translation was coded to calculate word allignment probabilities between from English to French Language corpuses. Moreover, a decoding technique was coded to decode the text back from French to English.
